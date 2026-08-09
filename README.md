@@ -16,4 +16,4 @@
 
 ---
 
-Данный кейс сделан на основе репозитория https://github.com/prplhd/CurrencyExchange с моими правками
+Данный кейс сделан на основе репозитория https://github.com/prplhd/CurrencyExchange с моими правками.
